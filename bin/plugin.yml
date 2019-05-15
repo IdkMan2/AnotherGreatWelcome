@@ -1,0 +1,5 @@
+name: AnotherGreatWelcome
+version: 1.0
+author: IdkMan
+description: Simple join messages
+main: pl.iberioncraft.welcome.AnotherGreatWelcome

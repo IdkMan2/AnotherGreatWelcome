@@ -1,0 +1,38 @@
+#Welcome to AnotherGreatWelcome configuration file.
+#Simply fill config with messages you want to set when player joins the server for the first time.
+#Messages will fire randomly
+#When you use special characters remember to surround your text with quotes.
+#You can use all bukkit colors: &6, &a, &d; formatting: &n, &o, &k and even hard-enter symbol: \n
+#If you want to do a hard-enter with "\n" symbol remember to surround you text with DOUBLE quotes!
+
+BlockVanillaJoinExitMessage: true
+
+Messages:
+  - "&3&l➤&3➤ &6%player% just joined the server - glhf!"
+  - "&3&l➤&3➤ &6%player% just joined. Everyone, look busy!"
+  - "&3&l➤&3➤ &6%player% just joined. Hide your bananas."
+  - "&3&l➤&3➤ &6Welcome, %player% We were expecting you ( ° ʖ °)"
+  - "&3&l➤&3➤ &6A %player% has spawned in the server."
+  - "&3&l➤&3➤ &6Where’s %player%? In the server!"
+  - "&3&l➤&3➤ &6%player% just showed up. Hold my beer."
+  - "&3&l➤&3➤ &6%player% joined. You must construct additional pylons."
+  - "&3&l➤&3➤ &6%player% joined your party."
+  - "&3&l➤&3➤ &6%player% just joined. Can I get a heal?"
+  - "&3&l➤&3➤ &6%player% just arrived. Seems OP - please nerf."
+  - "&3&l➤&3➤ &6%player% just slid into the server."
+  - "&3&l➤&3➤ &6%player% hopped into the server. Kangaroo!!"
+  - "&3&l➤&3➤ &6Welcome, %player% . Stay awhile and listen."
+  - "&3&l➤&3➤ &6Welcome, %player% . We hope you brought pizza."
+  - "&3&l➤&3➤ &6Welcome %player% . Leave your weapons by the door."
+  - "&3&l➤&3➤ &6A wild %player% appeared."
+  - "&3&l➤&3➤ &6Swoooosh. %player% just landed."
+  - "&3&l➤&3➤ &6Brace yourselves. %player% just joined the server."
+  - "&3&l➤&3➤ &6Big %player% showed up!"
+  - "&3&l➤&3➤ &6Ermagherd. %player% is here."
+
+  
+  
+  
+  
+  
+  
